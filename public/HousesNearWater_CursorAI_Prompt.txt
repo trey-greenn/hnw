@@ -1,0 +1,58 @@
+
+CursorAI Prompt for HousesNearWater.com (U.S. Only)
+
+Overview:
+You are building the frontend and content structure for HousesNearWater.com, a real estate discovery platform focused exclusively on homes located near water in the United States. The website must be intuitive, SEO-friendly, and scalable.
+
+Goal:
+Help users quickly browse and discover houses near lakes, oceans, rivers, and waterfronts across the U.S., filtered by state, city, body of water, and proximity to popular locations.
+
+Homepage Requirements:
+Design a homepage with clear navigation to the following primary sections:
+
+1. Browse by State
+- List all 50 states
+- Each state page should link to:
+  - Cities with waterfront homes
+  - Lakes, rivers, and coastal areas in that state
+
+2. Browse by City
+- Major cities with notable waterfront properties (e.g., Miami, Seattle, Chicago)
+- City pages should link to specific neighborhoods or nearby bodies of water
+
+3. Browse by Water Type
+- Oceanfront Homes
+- Lakefront Homes
+- Riverfront Homes
+- Canal/Waterway Homes
+- Bayfront Properties
+
+Each type should be a standalone SEO page with links to states/cities where those properties exist.
+
+4. Featured Bodies of Water
+Create landing pages for popular lakes, rivers, and coastlines:
+- Lake Tahoe, Lake Michigan, Hudson River, Chesapeake Bay, Gulf of Mexico, etc.
+- Each water body page should show:
+  - Nearby cities/towns
+  - Active real estate listings
+  - Info about the body of water
+
+SEO Section Generator (Long-Tail Pages):
+Create unique SEO-friendly pages using long-tail keyword templates such as:
+
+- "Lakefront homes for sale in [City], [State]"
+- "Homes near [Lake/River/Ocean Name] with boat docks"
+- "Affordable waterfront properties in [State/County]"
+- "Luxury homes near [Body of Water]"
+- "Beach houses for sale near [Beach Name]"
+- "Vacation homes near water in [City or Zip Code]"
+
+Automatically generate pages and listings using real data from MLS or property APIs.
+
+Other Features to Implement:
+- Search bar with autocomplete for locations & water bodies
+- Interactive map view with filter options (waterfront only, budget, beds, etc.)
+- Favorite listings and sign-up for alerts
+- Mobile-first design
+
+Note: U.S.-based properties only for now.

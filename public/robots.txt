@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: housesnearwater.com
+
+# Sitemaps
+Sitemap: housesnearwater.com/sitemap.xml
